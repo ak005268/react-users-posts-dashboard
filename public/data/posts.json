@@ -1,0 +1,15 @@
+[
+  { "userId": 1, "id": 1, "title": "Leanne’s first post", "body": "This is Leanne’s first post body." },
+  { "userId": 1, "id": 2, "title": "Leanne’s second post", "body": "More updates from Leanne’s side." },
+
+  { "userId": 2, "id": 3, "title": "Ervin’s intro", "body": "Hello everyone, Ervin here." },
+  { "userId": 2, "id": 4, "title": "Ervin’s second post", "body": "Excited to join this platform!" },
+
+  { "userId": 3, "id": 5, "title": "Clementine’s first post", "body": "Sharing my thoughts on development." },
+  { "userId": 3, "id": 6, "title": "Clementine’s travel blog", "body": "Recently visited the mountains!" },
+
+  { "userId": 4, "id": 7, "title": "Patricia’s day out", "body": "Spent time with family today." },
+  { "userId": 5, "id": 8, "title": "Chelsey’s tips", "body": "Top 5 productivity hacks I use daily." },
+  { "userId": 6, "id": 9, "title": "Dennis shares thoughts", "body": "React Hooks are so powerful!" },
+  { "userId": 7, "id": 10, "title": "Kurtis’s design ideas", "body": "Modern UI should be simple yet elegant." }
+]
