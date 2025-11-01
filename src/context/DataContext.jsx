@@ -1,4 +1,5 @@
 import React, { createContext, useState, useEffect } from "react";
+import { toast } from "sonner";
 
 export const DataContext = createContext();
 
@@ -19,7 +20,8 @@ export const DataProvider = ({ children }) => {
         const usersRes = await fetch("/data/users.json");
         const postsRes = await fetch("/data/posts.json");
 
-        if (!usersRes.ok || !postsRes.ok) throw new Error("Failed to load data");
+        if (!usersRes.ok || !postsRes.ok)
+          throw new Error("Failed to load data");
 
         const usersData = await usersRes.json();
         const postsData = await postsRes.json();
@@ -29,6 +31,7 @@ export const DataProvider = ({ children }) => {
       } catch (err) {
         console.error(err);
         setError("Error loading data");
+        toast.error("Failed to load user or post data");
       } finally {
         setLoading(false);
       }
@@ -37,11 +40,11 @@ export const DataProvider = ({ children }) => {
     fetchData();
   }, []);
 
-
   const addPost = (userId, newPost) => {
     const id = posts.length + 1;
     const post = { id, userId, ...newPost };
     setPosts((prev) => [...prev, post]);
+    toast.success("New post added successfully!");
   };
 
   const editPost = (postId, updatedData) => {
@@ -50,10 +53,12 @@ export const DataProvider = ({ children }) => {
         post.id === postId ? { ...post, ...updatedData } : post
       )
     );
+    toast.info("Post updated successfully!");
   };
 
   const deletePost = (postId) => {
     setPosts((prev) => prev.filter((post) => post.id !== postId));
+    toast.warning("Post deleted successfully!");
   };
 
   return (

@@ -1,92 +1,101 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "leanne@example.com",
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": { "name": "Romaguera-Crona" }
+    "name": "Arun",
+    "username": "arun01",
+    "email": "arun@example.in",
+    "phone": "+91-9876543210",
+    "website": "arun.dev.in",
+    "company": {
+      "name": "Tata Consultancy Services (TCS)"
+    }
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "ervin@example.com",
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": { "name": "Deckow-Crist" }
+    "name": "Divya",
+    "username": "divya02",
+    "email": "divya@example.in",
+    "phone": "+91-9123456789",
+    "website": "divya.tech.in",
+    "company": {
+      "name": "Infosys"
+    }
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "clementine@example.com",
-    "phone": "1-463-123-4447",
-    "website": "ramiro.info",
-    "company": { "name": "Romaguera-Jacobson" }
+    "name": "Karthik",
+    "username": "karthik03",
+    "email": "karthik@example.in",
+    "phone": "+91-9988776655",
+    "website": "karthik.co.in",
+    "company": {
+      "name": "Wipro"
+    }
   },
   {
     "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
-    "email": "patricia@example.com",
-    "phone": "493-170-9623 x156",
-    "website": "kale.biz",
-    "company": { "name": "Robel-Corkery" }
+    "name": "Meena",
+    "username": "meena04",
+    "email": "meena@example.in",
+    "phone": "+91-9090909090",
+    "website": "meena.dev.in",
+    "company": {
+      "name": "Zoho Corporation"
+    }
   },
   {
     "id": 5,
-    "name": "Chelsey Dietrich",
-    "username": "Kamren",
-    "email": "chelsey@example.com",
-    "phone": "(254)954-1289",
-    "website": "demarco.info",
-    "company": { "name": "Keebler LLC" }
+    "name": "Vignesh",
+    "username": "vignesh05",
+    "email": "vignesh@example.in",
+    "phone": "+91-9543218765",
+    "website": "vignesh.in",
+    "company": {
+      "name": "Cognizant"
+    }
   },
   {
     "id": 6,
-    "name": "Mrs. Dennis Schulist",
-    "username": "Leopoldo_Corkery",
-    "email": "dennis@example.com",
-    "phone": "1-477-935-8478 x6430",
-    "website": "ola.org",
-    "company": { "name": "Considine-Lockman" }
+    "name": "Keerthi",
+    "username": "keerthi06",
+    "email": "keerthi@example.in",
+    "phone": "+91-9822045678",
+    "website": "keerthi.me.in",
+    "company": {
+      "name": "Tech Mahindra"
+    }
   },
   {
     "id": 7,
-    "name": "Kurtis Weissnat",
-    "username": "Elwyn.Skiles",
-    "email": "kurtis@example.com",
-    "phone": "210.067.6132",
-    "website": "elvis.io",
-    "company": { "name": "Johns Group" }
+    "name": "Manoj",
+    "username": "manoj07",
+    "email": "manoj@example.in",
+    "phone": "+91-9700011223",
+    "website": "manoj.io.in",
+    "company": {
+      "name": "HCL Technologies"
+    }
   },
   {
     "id": 8,
-    "name": "Nicholas Runolfsdottir V",
-    "username": "Maxime_Nienow",
-    "email": "nicholas@example.com",
-    "phone": "586.493.6943 x140",
-    "website": "jacynthe.com",
-    "company": { "name": "Abernathy Group" }
+    "name": "Anu",
+    "username": "anu08",
+    "email": "anu@example.in",
+    "phone": "+91-9812312312",
+    "website": "anu.dev.in",
+    "company": {
+      "name": "Accenture"
+    }
   },
   {
     "id": 9,
-    "name": "Glenna Reichert",
-    "username": "Delphine",
-    "email": "glenna@example.com",
-    "phone": "(775)976-6794 x41206",
-    "website": "conrad.com",
-    "company": { "name": "Yost and Sons" }
-  },
-  {
-    "id": 10,
-    "name": "Clementina DuBuque",
-    "username": "Moriah.Stanton",
-    "email": "clementina@example.com",
-    "phone": "1-463-123-4447",
-    "website": "ambrose.net",
-    "company": { "name": "Hoeger LLC" }
+    "name": "Sanjay",
+    "username": "sanjay09",
+    "email": "sanjay@example.in",
+    "phone": "+91-9880098800",
+    "website": "sanjay.in",
+    "company": {
+      "name": "IBM India"
+    }
   }
 ]

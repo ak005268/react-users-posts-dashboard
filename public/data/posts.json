@@ -1,15 +1,16 @@
 [
-  { "userId": 1, "id": 1, "title": "Leanne’s first post", "body": "This is Leanne’s first post body." },
-  { "userId": 1, "id": 2, "title": "Leanne’s second post", "body": "More updates from Leanne’s side." },
+  { "userId": 1, "id": 1, "title": "Aarav’s first post", "body": "Namaste everyone! This is Aarav’s very first post on the platform." },
+  { "userId": 1, "id": 2, "title": "Aarav’s second post", "body": "Sharing a few updates from Mumbai today — what a busy week!" },
+  { "userId": 1, "id": 10, "title": "Karthik’s design corner", "body": "UI should reflect simplicity and our cultural vibrance." },
+  { "userId": 1, "id": 10, "title": "Karthik’s design corner", "body": "UI should reflect simplicity and our cultural vibrance." },
+  { "userId": 2, "id": 3, "title": "Priya’s introduction", "body": "Hello doston, Priya here from Bengaluru. Excited to connect!" },
+  { "userId": 2, "id": 4, "title": "Priya’s chai break thoughts", "body": "Enjoying my evening chai and thinking about new projects." },
 
-  { "userId": 2, "id": 3, "title": "Ervin’s intro", "body": "Hello everyone, Ervin here." },
-  { "userId": 2, "id": 4, "title": "Ervin’s second post", "body": "Excited to join this platform!" },
+  { "userId": 3, "id": 5, "title": "Rohan’s coding journey", "body": "Just finished a hackathon at IIT Delhi — what an experience!" },
+  { "userId": 3, "id": 6, "title": "Rohan’s travel diaries", "body": "Visited Manali last month — snow, maggi, and mountains!" },
 
-  { "userId": 3, "id": 5, "title": "Clementine’s first post", "body": "Sharing my thoughts on development." },
-  { "userId": 3, "id": 6, "title": "Clementine’s travel blog", "body": "Recently visited the mountains!" },
-
-  { "userId": 4, "id": 7, "title": "Patricia’s day out", "body": "Spent time with family today." },
-  { "userId": 5, "id": 8, "title": "Chelsey’s tips", "body": "Top 5 productivity hacks I use daily." },
-  { "userId": 6, "id": 9, "title": "Dennis shares thoughts", "body": "React Hooks are so powerful!" },
-  { "userId": 7, "id": 10, "title": "Kurtis’s design ideas", "body": "Modern UI should be simple yet elegant." }
+  { "userId": 4, "id": 7, "title": "Sneha’s family day", "body": "Spent Sunday with family and had homemade dosa for breakfast." },
+  { "userId": 5, "id": 8, "title": "Ananya’s productivity hacks", "body": "Here are my top 5 time-management tips for college students." },
+  { "userId": 6, "id": 9, "title": "Rahul talks tech", "body": "Exploring how AI is changing the Indian startup scene." },
+  { "userId": 7, "id": 10, "title": "Karthik’s design corner", "body": "UI should reflect simplicity and our cultural vibrance." }
 ]
